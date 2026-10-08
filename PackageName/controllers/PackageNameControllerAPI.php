@@ -2,8 +2,8 @@
 
 use controller\Controller;
 use object\ObjectFactory;
-use packages\runtime\api\RuntimeControllerAPI;
-use packages\runtime\handler\enums\ERuntimeFlags;
+use runtime\api\RuntimeControllerAPI;
+use runtime\enums\ERuntimeFlags;
 
 final class PackageNameControllerAPI extends RuntimeControllerAPI
 {
