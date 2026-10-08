@@ -24,7 +24,7 @@
 ## Version comaptibiliy
 | Version | minimum AWT version  | maximum AWT version|
 |--|--|--|
-| 1.x.x | 26.0.0  | / |
+| 1.x.x | 27.0.0  | / |
 
 ## Links
 | Name | Link            |
