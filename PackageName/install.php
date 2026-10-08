@@ -2,7 +2,7 @@
 
 use database\creator\ColumnCreator;
 use database\creator\TableWizard;
-use installer\interfaces\package\actions;
+use installer\interfaces\package\actions\IPostInstall;
 
 class PackageNameInstall implements IPostInstall
 {
