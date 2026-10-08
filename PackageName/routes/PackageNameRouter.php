@@ -1,7 +1,7 @@
 <?php
 
-use packages\runtime\api\RuntimeControllerAPI;
-use packages\runtime\api\RuntimeRouterAPI;
+use runtime\api\RuntimeControllerAPI;
+use runtime\api\RuntimeRouterAPI;
 use router\Router;
 
 final class PackageNameRouter extends RuntimeRouterAPI
